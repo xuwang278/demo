@@ -14,6 +14,7 @@ def cow():
 
 def main():
 	print('added in the branch of new feature')
+	print('added a new line in the branch of latest feature')
 	if sys.argv[1] == 'dog':
 		dog()
 	elif sys.argv[1] == 'cat':
