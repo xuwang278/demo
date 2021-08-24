@@ -1,13 +1,13 @@
 import sys
 
 def default():
-	print('Hello')
+	print('hello')
 
 def cat():
-	print('Meow')
+	print('meow')
 
 def dog():
-	print('Woof')
+	print('woof')
 
 def cow():
 	print('cow')
