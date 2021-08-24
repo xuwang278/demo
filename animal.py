@@ -13,6 +13,7 @@ def cow():
 	print('cow')
 
 def main():
+	print('added in the branch of new feature')
 	if sys.argv[1] == 'dog':
 		dog()
 	elif sys.argv[1] == 'cat':
